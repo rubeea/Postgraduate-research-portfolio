@@ -72,11 +72,11 @@ The project aims to improve the accuracy and reliability of pneumonia diagnosis 
 
 **Research Scholar:** Shumaim  | **Degree:** Master of Engineering (Software Engineering)
 
-**Research Domain:** Artificial Intelligence • Natural Language Processing • Human–AI Interaction • Trustworthy AI
+**Research Domain:** Artificial Intelligence • Natural Language Processing • Human-AI Interaction • Trustworthy AI
 
-This ongoing Master's research investigates how users attribute human-like emotions and intentions to Large Language Models (LLMs) and how such anthropomorphic perceptions influence user trust, reliance, and decision-making. As conversational AI becomes increasingly integrated into education, healthcare, customer service, and everyday interactions, understanding the psychological factors that shape human–AI relationships is essential for the responsible design and deployment of AI systems.
+This ongoing Master's research investigates how users attribute human-like emotions and intentions to Large Language Models (LLMs) and how such anthropomorphic perceptions influence user trust, reliance, and decision-making. As conversational AI becomes increasingly integrated into education, healthcare, customer service, and everyday interactions, understanding the psychological factors that shape human-AI relationships is essential for the responsible design and deployment of AI systems.
 
-The research aims to develop novel datasets and computational methods for identifying and analyzing emotional attribution in user interactions with LLMs while examining its relationship with user trust. The findings are expected to contribute to the broader fields of Trustworthy AI, Human–AI Interaction, and AI Governance by providing insights into the responsible development of conversational AI systems.
+The research aims to develop novel datasets and computational methods for identifying and analyzing emotional attribution in user interactions with LLMs while examining its relationship with user trust. The findings are expected to contribute to the broader fields of Trustworthy AI, Human-AI Interaction, and AI Governance by providing insights into the responsible development of conversational AI systems.
 
 **Keywords**
 
@@ -84,7 +84,7 @@ The research aims to develop novel datasets and computational methods for identi
 - Anthropomorphism
 - Emotional Attribution
 - User Trust
-- Human–AI Interaction
+- Human-AI Interaction
 - Trustworthy AI
 - Natural Language Processing
 - AI Governance
