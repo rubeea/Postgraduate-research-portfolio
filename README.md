@@ -28,6 +28,10 @@ As a postgraduate research supervisor, I actively contribute throughout the rese
 
 ### 🩻 Development of an Optimized Deep Segmentation Framework for Pneumonia Diagnosis through Chest X-ray Imaging
 
+**Research Scholar:** Mehwish Shaikh  
+**Degree:** PhD (Software Engineering)  
+**Duration:** 2023–Present  
+
 **Research Domain:** Artificial Intelligence • Deep Learning • Medical Image Analysis • Computer Vision • Healthcare AI
 
 This ongoing PhD research focuses on developing an optimized deep learning framework for the automated segmentation of pneumonia from chest X-ray (CXR) images. Accurate segmentation of infected lung regions is essential for improving computer-aided diagnosis and assisting clinicians in the early detection and assessment of pneumonia severity. The research investigates advanced segmentation architectures, novel loss functions, attention mechanisms, and feature selection strategies to enhance model performance, robustness, and interpretability.
@@ -51,14 +55,14 @@ The project aims to improve the accuracy and reliability of pneumonia diagnosis 
 - ✅ Initial Seminar Completed
 - ✅ First Progressive Seminar Completed
 
+**GitHub** https://github.com/Mishayy/pneumonia_segmentation 
+
 ### Achievements
 
 - 🏅 Excellence Award, **Medical Image Understanding and Analysis (MIUA 2025)**, Leeds, United Kingdom
 - 🎤 Conference Presentation – **Medical Image Understanding and Analysis (MIUA 2025)**, July 15–17, 2025, Leeds, United Kingdom
 - 📄 Springer Conference Publication: **[A Novel Feature-Prioritized Dice Loss Function for Enhanced Pneumonia Segmentation in Chest X-rays](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_5)**, *Proceedings of Medical Image Understanding and Analysis (MIUA 2025)*
 - 📄 Journal Publication: **[AG-FSNet: A Hybrid Attention and Feature Selection Network with Feature Contribution Scoring for Pneumonia Segmentation Using CXR Images](https://www.sciencedirect.com/science/article/abs/pii/S1746809425017598)**, *Biomedical Signal Processing and Control*, Elsevier, April 2026 (Impact Factor: 5.7)
-
-**GitHub** https://github.com/Mishayy/pneumonia_segmentation
 
 ---
 
@@ -67,6 +71,10 @@ The project aims to improve the accuracy and reliability of pneumonia diagnosis 
 ## 2025
 
 ## 📍 Development of a Framework for Location-Based Messaging with Augmented Reality
+
+**Research Scholar:** Umer Farooq 
+**Degree:** M.E (Software Engineering)  
+**Duration:** 2023–2025  
 
 **Research Domain:** Augmented Reality • Human–Computer Interaction • Mobile Computing • Software Engineering
 
@@ -98,6 +106,10 @@ The proposed framework achieved a **System Usability Scale (SUS) score of 71.25*
 ## 2024
 
 ### 🎮 Mobile Legends Win Rate Prediction and Team Recommendation Using Switched Hero Roles
+
+**Research Scholar:** Pir Hamid Qureshi 
+**Degree:** M.E (Software Engineering)  
+**Duration:** 2023–2025  
 
 **Research Domain:** Artificial Intelligence • Machine Learning • Recommender Systems • Game Analytics
 
