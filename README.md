@@ -22,9 +22,49 @@ As a postgraduate research supervisor, I actively contribute throughout the rese
 
 ---
 
+# Ongoing PhD Research
+
+## 2023 – Present
+
+### 🩻 Development of an Optimized Deep Segmentation Framework for Pneumonia Diagnosis through Chest X-ray Imaging
+
+**Research Domain:** Artificial Intelligence • Deep Learning • Medical Image Analysis • Computer Vision • Healthcare AI
+
+This ongoing PhD research focuses on developing an optimized deep learning framework for the automated segmentation of pneumonia from chest X-ray (CXR) images. Accurate segmentation of infected lung regions is essential for improving computer-aided diagnosis and assisting clinicians in the early detection and assessment of pneumonia severity. The research investigates advanced segmentation architectures, novel loss functions, attention mechanisms, and feature selection strategies to enhance model performance, robustness, and interpretability.
+
+The project aims to improve the accuracy and reliability of pneumonia diagnosis by integrating state-of-the-art deep learning techniques with explainable feature analysis. The developed framework is intended to support clinical decision-making through precise localization of infection regions while addressing common challenges such as class imbalance, varying infection patterns, and limited annotated medical imaging datasets.
+
+**Keywords**
+
+- Deep Learning
+- Medical Image Analysis
+- Computer Vision
+- Pneumonia Segmentation
+- Chest X-ray Imaging
+- Healthcare AI
+- Attention Mechanisms
+- Explainable AI
+
+**Status**
+
+- 🚧 Ongoing PhD Research (2023–Present)
+- ✅ Initial Seminar Completed
+- ✅ First Progressive Seminar Completed
+
+### Achievements
+
+- 🏅 Excellence Award, **Medical Image Understanding and Analysis (MIUA 2025)**, Leeds, United Kingdom
+- 🎤 Conference Presentation – **Medical Image Understanding and Analysis (MIUA 2025)**, July 15–17, 2025, Leeds, United Kingdom
+- 📄 Springer Conference Publication: **[A Novel Feature-Prioritized Dice Loss Function for Enhanced Pneumonia Segmentation in Chest X-rays](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_5)**, *Proceedings of Medical Image Understanding and Analysis (MIUA 2025)*
+- 📄 Journal Publication: **[AG-FSNet: A Hybrid Attention and Feature Selection Network with Feature Contribution Scoring for Pneumonia Segmentation Using CXR Images](https://www.sciencedirect.com/science/article/abs/pii/S1746809425017598)**, *Biomedical Signal Processing and Control*, Elsevier, April 2026 (Impact Factor: 5.7)
+
+**GitHub** https://github.com/Mishayy/pneumonia_segmentation
+
+---
+
 # Master's Research
 
-# 2025
+## 2025
 
 ## 📍 Development of a Framework for Location-Based Messaging with Augmented Reality
 
@@ -52,6 +92,8 @@ The proposed framework achieved a **System Usability Scale (SUS) score of 71.25*
 - 🥉 Third Prize – Best Poster, **1st International Summer School (HCIPAK 2025)**, April 28–30, 2025, Rachna College of Engineering and Technology (RCET), Gujranwala, Pakistan
 - 🎤 Paper Presentation – **IEEE International Conference on Decision Aid Sciences and Applications (DASA 2025)**, Manama, Bahrain, December 1–2, 2025
 - 📄 IEEE Conference Publication: **[Usability Study and Development of Location-Based Messaging with Augmented Reality](https://ieeexplore.ieee.org/abstract/document/11498935)**, *Proceedings of the IEEE International Conference on Decision Aid Sciences and Applications (DASA 2025)*
+
+---
 
 ## 2024
 
