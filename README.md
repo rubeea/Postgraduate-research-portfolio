@@ -26,11 +26,9 @@ As a postgraduate research supervisor, I actively contribute throughout the rese
 
 ## 2023 – Present
 
-### 🩻 Development of an Optimized Deep Segmentation Framework for Pneumonia Diagnosis through Chest X-ray Imaging
+### ⚕️ Development of an Optimized Deep Segmentation Framework for Pneumonia Diagnosis through Chest X-ray Imaging
 
-**Research Scholar:** Mehwish Shaikh  
-**Degree:** PhD (Software Engineering)  
-**Duration:** 2023–Present  
+**Research Scholar:** Mehwish Shaikh  |  **Degree:** PhD (Software Engineering)  | **Duration:** 2023–Present  
 
 **Research Domain:** Artificial Intelligence • Deep Learning • Medical Image Analysis • Computer Vision • Healthcare AI
 
@@ -68,13 +66,40 @@ The project aims to improve the accuracy and reliability of pneumonia diagnosis 
 
 # Master's Research
 
+# 2026
+
+## 🤖 Investigation into Emotional Attribution and User Trust in Large Language Models
+
+**Research Scholar:** Shumaim  | **Degree:** Master of Engineering (Software Engineering)
+
+**Research Domain:** Artificial Intelligence • Natural Language Processing • Human–AI Interaction • Trustworthy AI
+
+This ongoing Master's research investigates how users attribute human-like emotions and intentions to Large Language Models (LLMs) and how such anthropomorphic perceptions influence user trust, reliance, and decision-making. As conversational AI becomes increasingly integrated into education, healthcare, customer service, and everyday interactions, understanding the psychological factors that shape human–AI relationships is essential for the responsible design and deployment of AI systems.
+
+The research aims to develop novel datasets and computational methods for identifying and analyzing emotional attribution in user interactions with LLMs while examining its relationship with user trust. The findings are expected to contribute to the broader fields of Trustworthy AI, Human–AI Interaction, and AI Governance by providing insights into the responsible development of conversational AI systems.
+
+**Keywords**
+
+- Large Language Models (LLMs)
+- Anthropomorphism
+- Emotional Attribution
+- User Trust
+- Human–AI Interaction
+- Trustworthy AI
+- Natural Language Processing
+- AI Governance
+
+**Status**
+
+- 🚧 Ongoing Master's Research (2026–Present)
+
+---
+
 ## 2025
 
 ## 📍 Development of a Framework for Location-Based Messaging with Augmented Reality
 
-**Research Scholar:** Umer Farooq 
-**Degree:** M.E (Software Engineering)  
-**Duration:** 2023–2025  
+**Research Scholar:** Umer Farooq | **Degree:** Master of Engineering (Software Engineering)  | **Duration:** 2023–2025  
 
 **Research Domain:** Augmented Reality • Human–Computer Interaction • Mobile Computing • Software Engineering
 
@@ -107,9 +132,7 @@ The proposed framework achieved a **System Usability Scale (SUS) score of 71.25*
 
 ### 🎮 Mobile Legends Win Rate Prediction and Team Recommendation Using Switched Hero Roles
 
-**Research Scholar:** Pir Hamid Qureshi 
-**Degree:** M.E (Software Engineering)  
-**Duration:** 2023–2025  
+**Research Scholar:** Pir Hamid Qureshi | **Degree:** Master of Engineering (Software Engineering) | **Duration:** 2023–2025  
 
 **Research Domain:** Artificial Intelligence • Machine Learning • Recommender Systems • Game Analytics
 
